@@ -56,7 +56,7 @@ export const testimonials = [
   },
   {
     user: "Movie, Pune, Trip",
-    company: "SAgain Chillin...",
+    company: "Again Chillin...",
     image: user6,
     text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
   },
@@ -126,7 +126,7 @@ export const checklistItems = [
       "Happy Birthday, my love! 🎉✨ Another year closer to your dream, another step toward becoming the incredible neurosurgeon you’re meant to be. I have no doubt that one day, you’ll be saving lives, making history, and proving that nothing is impossible for you. Your dedication, intelligence, and passion inspire me every single day. No matter how tough the journey gets, know that I’ll always be here, cheering for you, supporting you, and believing in you—even on the days you doubt yourself. You’re meant for greatness, and I can’t wait to see you achieve everything you’ve ever dreamed of. So here’s to you—your birthday, your dreams, and your unstoppable future! 🎂💙 Keep shining, my doctor-to-be. The world is waiting for you! ✨🩺",
   },
   {
-    title: " The One Who Makes Every Journey Worth It",
+    title: "The One Who Makes Every Journey Worth It",
     description:
       "From the crazy bus rides to Nashik to the thrilling yet terrifying Lonavala highway, every adventure with you felt just right. No matter how risky the roads got, having you by my side made it all worthwhile. You turned fear into laughter, and every destination felt like home because you were there.",
   },
@@ -136,7 +136,7 @@ export const checklistItems = [
       "From getting lost on forbidden highways to sneaking kisses in places we shouldn't, every moment with you is an adventure I never want to end. You turn the scariest, craziest experiences into memories I cherish forever.",
   },
   {
-    title: " The One Who Sees Me Like No One Else",
+    title: "The One Who Sees Me Like No One Else",
     description:
       "It took 9 years for us to truly understand each other, but now, nothing else matters. The way you love me, care for me, and make me feel seen—I know I was meant to find you.",
   },
@@ -181,26 +181,26 @@ export const pricingOptions = [
   },
 ];
 
-export const resourcesLinks = [
+export const OurStoryLinks = [
   { href: "#", text: "Getting Started" },
-  { href: "#", text: "Documentation" },
-  { href: "#", text: "Tutorials" },
-  { href: "#", text: "API Reference" },
-  { href: "#", text: "Community Forums" },
+  { href: "#", text: "School" },
+  { href: "#", text: "College" },
+  { href: "#", text: "Pune" },
+  { href: "#", text: "Allahabad" },
 ];
 
-export const platformLinks = [
-  { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+export const TripsLink = [
+  { href: "#", text: "Pune" },
+  { href: "#", text: "Manali Soon" },
+  { href: "#", text: "Goa Soon" },
+  { href: "#", text: "12 Jyotirlinga Soon" },
+  { href: "#", text: "Shimla Soon" },
 ];
 
-export const communityLinks = [
+export const Life = [
   { href: "#", text: "Events" },
   { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: "Festivals" },
+  { href: "#", text: "Goals" },
+  { href: "#", text: "Career" },
 ];
